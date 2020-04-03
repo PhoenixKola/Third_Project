@@ -20,8 +20,7 @@ public class GUI implements ActionListener {
 	private static JLabel passwordLabel;
 	private static JPasswordField passwordText;
 	private static JButton button;
-	int count = 5; 
-	Boolean flag = false;
+	int count = 5;
 	
 	
 	public static void main(String[] args) {
